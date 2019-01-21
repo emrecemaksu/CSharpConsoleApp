@@ -1,0 +1,7 @@
+C:\Users\chuck\source\repos\Saga_Kayan_İstanbul\Saga_Kayan_İstanbul\bin\Debug\Saga_Kayan_İstanbul.exe.config
+C:\Users\chuck\source\repos\Saga_Kayan_İstanbul\Saga_Kayan_İstanbul\bin\Debug\Saga_Kayan_İstanbul.exe
+C:\Users\chuck\source\repos\Saga_Kayan_İstanbul\Saga_Kayan_İstanbul\bin\Debug\Saga_Kayan_İstanbul.pdb
+C:\Users\chuck\source\repos\Saga_Kayan_İstanbul\Saga_Kayan_İstanbul\obj\Debug\Saga_Kayan_İstanbul.csprojAssemblyReference.cache
+C:\Users\chuck\source\repos\Saga_Kayan_İstanbul\Saga_Kayan_İstanbul\obj\Debug\Saga_Kayan_İstanbul.csproj.CoreCompileInputs.cache
+C:\Users\chuck\source\repos\Saga_Kayan_İstanbul\Saga_Kayan_İstanbul\obj\Debug\Saga_Kayan_İstanbul.exe
+C:\Users\chuck\source\repos\Saga_Kayan_İstanbul\Saga_Kayan_İstanbul\obj\Debug\Saga_Kayan_İstanbul.pdb

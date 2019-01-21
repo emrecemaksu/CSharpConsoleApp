@@ -1,0 +1,6 @@
+C:\Users\chuck\source\repos\On_Sayının_Ortalaması\On_Sayının_Ortalaması\bin\Debug\On_Sayının_Ortalaması.exe.config
+C:\Users\chuck\source\repos\On_Sayının_Ortalaması\On_Sayının_Ortalaması\bin\Debug\On_Sayının_Ortalaması.exe
+C:\Users\chuck\source\repos\On_Sayının_Ortalaması\On_Sayının_Ortalaması\bin\Debug\On_Sayının_Ortalaması.pdb
+C:\Users\chuck\source\repos\On_Sayının_Ortalaması\On_Sayının_Ortalaması\obj\Debug\On_Sayının_Ortalaması.csproj.CoreCompileInputs.cache
+C:\Users\chuck\source\repos\On_Sayının_Ortalaması\On_Sayının_Ortalaması\obj\Debug\On_Sayının_Ortalaması.exe
+C:\Users\chuck\source\repos\On_Sayının_Ortalaması\On_Sayının_Ortalaması\obj\Debug\On_Sayının_Ortalaması.pdb

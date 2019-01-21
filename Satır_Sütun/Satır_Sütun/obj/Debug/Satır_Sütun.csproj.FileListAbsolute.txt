@@ -1,0 +1,6 @@
+C:\Users\chuck\source\repos\Satır_Sütun\Satır_Sütun\bin\Debug\Satır_Sütun.exe.config
+C:\Users\chuck\source\repos\Satır_Sütun\Satır_Sütun\bin\Debug\Satır_Sütun.exe
+C:\Users\chuck\source\repos\Satır_Sütun\Satır_Sütun\bin\Debug\Satır_Sütun.pdb
+C:\Users\chuck\source\repos\Satır_Sütun\Satır_Sütun\obj\Debug\Satır_Sütun.csproj.CoreCompileInputs.cache
+C:\Users\chuck\source\repos\Satır_Sütun\Satır_Sütun\obj\Debug\Satır_Sütun.exe
+C:\Users\chuck\source\repos\Satır_Sütun\Satır_Sütun\obj\Debug\Satır_Sütun.pdb
