@@ -1,0 +1,6 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Struck_Örneği_1\Struck_Örneği_1\bin\Debug\Struck_Örneği_1.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Struck_Örneği_1\Struck_Örneği_1\bin\Debug\Struck_Örneği_1.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Struck_Örneği_1\Struck_Örneği_1\bin\Debug\Struck_Örneği_1.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Struck_Örneği_1\Struck_Örneği_1\obj\Debug\Struck_Örneği_1.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Struck_Örneği_1\Struck_Örneği_1\obj\Debug\Struck_Örneği_1.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Struck_Örneği_1\Struck_Örneği_1\obj\Debug\Struck_Örneği_1.pdb

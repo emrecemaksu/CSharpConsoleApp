@@ -1,0 +1,6 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\istanbul_dik_üçgen\istanbul_dik_üçgen\bin\Debug\istanbul_dik_üçgen.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\istanbul_dik_üçgen\istanbul_dik_üçgen\bin\Debug\istanbul_dik_üçgen.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\istanbul_dik_üçgen\istanbul_dik_üçgen\bin\Debug\istanbul_dik_üçgen.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\istanbul_dik_üçgen\istanbul_dik_üçgen\obj\Debug\istanbul_dik_üçgen.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\istanbul_dik_üçgen\istanbul_dik_üçgen\obj\Debug\istanbul_dik_üçgen.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\istanbul_dik_üçgen\istanbul_dik_üçgen\obj\Debug\istanbul_dik_üçgen.pdb

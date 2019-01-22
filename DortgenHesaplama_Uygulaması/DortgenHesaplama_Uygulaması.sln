@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DortgenHesaplama_Uygulaması", "DortgenHesaplama_Uygulaması\DortgenHesaplama_Uygulaması.csproj", "{9FC02CF5-D47A-44ED-8F21-0FD5944BC7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC02CF5-D47A-44ED-8F21-0FD5944BC7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC02CF5-D47A-44ED-8F21-0FD5944BC7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC02CF5-D47A-44ED-8F21-0FD5944BC7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC02CF5-D47A-44ED-8F21-0FD5944BC7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6CCCCF-5357-48A0-A386-CA37E9DCDA98}
+	EndGlobalSection
+EndGlobal

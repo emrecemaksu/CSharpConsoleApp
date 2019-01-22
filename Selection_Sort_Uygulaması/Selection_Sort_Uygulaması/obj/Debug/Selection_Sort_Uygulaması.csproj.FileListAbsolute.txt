@@ -1,0 +1,7 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Selection_Sort_Uygulaması\Selection_Sort_Uygulaması\bin\Debug\Selection_Sort_Uygulaması.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Selection_Sort_Uygulaması\Selection_Sort_Uygulaması\bin\Debug\Selection_Sort_Uygulaması.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Selection_Sort_Uygulaması\Selection_Sort_Uygulaması\bin\Debug\Selection_Sort_Uygulaması.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Selection_Sort_Uygulaması\Selection_Sort_Uygulaması\obj\Debug\Selection_Sort_Uygulaması.csprojAssemblyReference.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Selection_Sort_Uygulaması\Selection_Sort_Uygulaması\obj\Debug\Selection_Sort_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Selection_Sort_Uygulaması\Selection_Sort_Uygulaması\obj\Debug\Selection_Sort_Uygulaması.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Selection_Sort_Uygulaması\Selection_Sort_Uygulaması\obj\Debug\Selection_Sort_Uygulaması.pdb

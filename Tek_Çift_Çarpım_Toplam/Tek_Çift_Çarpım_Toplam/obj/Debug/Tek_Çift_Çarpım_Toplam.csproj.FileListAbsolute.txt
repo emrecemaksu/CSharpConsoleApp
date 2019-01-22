@@ -1,0 +1,7 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Tek_Çift_Çarpım_Toplam\Tek_Çift_Çarpım_Toplam\bin\Debug\Tek_Çift_Çarpım_Toplam.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Tek_Çift_Çarpım_Toplam\Tek_Çift_Çarpım_Toplam\bin\Debug\Tek_Çift_Çarpım_Toplam.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Tek_Çift_Çarpım_Toplam\Tek_Çift_Çarpım_Toplam\bin\Debug\Tek_Çift_Çarpım_Toplam.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Tek_Çift_Çarpım_Toplam\Tek_Çift_Çarpım_Toplam\obj\Debug\Tek_Çift_Çarpım_Toplam.csprojAssemblyReference.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Tek_Çift_Çarpım_Toplam\Tek_Çift_Çarpım_Toplam\obj\Debug\Tek_Çift_Çarpım_Toplam.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Tek_Çift_Çarpım_Toplam\Tek_Çift_Çarpım_Toplam\obj\Debug\Tek_Çift_Çarpım_Toplam.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Tek_Çift_Çarpım_Toplam\Tek_Çift_Çarpım_Toplam\obj\Debug\Tek_Çift_Çarpım_Toplam.pdb

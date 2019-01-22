@@ -1,0 +1,6 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\yazıyı_sola_kaydırma\yazıyı_sola_kaydırma\bin\Debug\yazıyı_sola_kaydırma.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\yazıyı_sola_kaydırma\yazıyı_sola_kaydırma\bin\Debug\yazıyı_sola_kaydırma.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\yazıyı_sola_kaydırma\yazıyı_sola_kaydırma\bin\Debug\yazıyı_sola_kaydırma.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\yazıyı_sola_kaydırma\yazıyı_sola_kaydırma\obj\Debug\yazıyı_sola_kaydırma.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\yazıyı_sola_kaydırma\yazıyı_sola_kaydırma\obj\Debug\yazıyı_sola_kaydırma.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\yazıyı_sola_kaydırma\yazıyı_sola_kaydırma\obj\Debug\yazıyı_sola_kaydırma.pdb

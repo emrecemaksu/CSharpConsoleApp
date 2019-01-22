@@ -1,0 +1,6 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\V_seklinde_istanbul\V_seklinde_istanbul\bin\Debug\V_seklinde_istanbul.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\V_seklinde_istanbul\V_seklinde_istanbul\bin\Debug\V_seklinde_istanbul.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\V_seklinde_istanbul\V_seklinde_istanbul\bin\Debug\V_seklinde_istanbul.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\V_seklinde_istanbul\V_seklinde_istanbul\obj\Debug\V_seklinde_istanbul.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\V_seklinde_istanbul\V_seklinde_istanbul\obj\Debug\V_seklinde_istanbul.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\V_seklinde_istanbul\V_seklinde_istanbul\obj\Debug\V_seklinde_istanbul.pdb

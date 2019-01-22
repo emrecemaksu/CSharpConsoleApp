@@ -1,0 +1,6 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Yüze_kadar_6nın_katı\Yüze_kadar_6nın_katı\bin\Debug\Yüze_kadar_6nın_katı.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Yüze_kadar_6nın_katı\Yüze_kadar_6nın_katı\bin\Debug\Yüze_kadar_6nın_katı.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Yüze_kadar_6nın_katı\Yüze_kadar_6nın_katı\bin\Debug\Yüze_kadar_6nın_katı.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Yüze_kadar_6nın_katı\Yüze_kadar_6nın_katı\obj\Debug\Yüze_kadar_6nın_katı.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Yüze_kadar_6nın_katı\Yüze_kadar_6nın_katı\obj\Debug\Yüze_kadar_6nın_katı.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\Yüze_kadar_6nın_katı\Yüze_kadar_6nın_katı\obj\Debug\Yüze_kadar_6nın_katı.pdb

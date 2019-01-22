@@ -1,0 +1,6 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\w_ile_harf_harf_istanbul\w_ile_harf_harf_istanbul\bin\Debug\w_ile_harf_harf_istanbul.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\w_ile_harf_harf_istanbul\w_ile_harf_harf_istanbul\bin\Debug\w_ile_harf_harf_istanbul.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\w_ile_harf_harf_istanbul\w_ile_harf_harf_istanbul\bin\Debug\w_ile_harf_harf_istanbul.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\w_ile_harf_harf_istanbul\w_ile_harf_harf_istanbul\obj\Debug\w_ile_harf_harf_istanbul.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\w_ile_harf_harf_istanbul\w_ile_harf_harf_istanbul\obj\Debug\w_ile_harf_harf_istanbul.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\w_ile_harf_harf_istanbul\w_ile_harf_harf_istanbul\obj\Debug\w_ile_harf_harf_istanbul.pdb

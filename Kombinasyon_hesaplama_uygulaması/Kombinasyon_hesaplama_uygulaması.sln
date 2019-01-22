@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kombinasyon_hesaplama_uygulaması", "Kombinasyon_hesaplama_uygulaması\Kombinasyon_hesaplama_uygulaması.csproj", "{89F88663-6236-4E54-86B9-A53451CE60CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F88663-6236-4E54-86B9-A53451CE60CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F88663-6236-4E54-86B9-A53451CE60CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F88663-6236-4E54-86B9-A53451CE60CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F88663-6236-4E54-86B9-A53451CE60CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51379B0-5731-4278-BA6E-2AC0BF838221}
+	EndGlobalSection
+EndGlobal

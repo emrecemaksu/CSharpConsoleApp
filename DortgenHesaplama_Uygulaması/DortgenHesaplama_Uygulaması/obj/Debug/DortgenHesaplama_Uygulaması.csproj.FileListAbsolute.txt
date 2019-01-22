@@ -1,0 +1,6 @@
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\DortgenHesaplama_Uygulaması\DortgenHesaplama_Uygulaması\bin\Debug\DortgenHesaplama_Uygulaması.exe.config
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\DortgenHesaplama_Uygulaması\DortgenHesaplama_Uygulaması\bin\Debug\DortgenHesaplama_Uygulaması.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\DortgenHesaplama_Uygulaması\DortgenHesaplama_Uygulaması\bin\Debug\DortgenHesaplama_Uygulaması.pdb
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\DortgenHesaplama_Uygulaması\DortgenHesaplama_Uygulaması\obj\Debug\DortgenHesaplama_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\DortgenHesaplama_Uygulaması\DortgenHesaplama_Uygulaması\obj\Debug\DortgenHesaplama_Uygulaması.exe
+C:\Users\chuck\Documents\GitHub\CSharpConsoleApp\DortgenHesaplama_Uygulaması\DortgenHesaplama_Uygulaması\obj\Debug\DortgenHesaplama_Uygulaması.pdb
